@@ -1,3 +1,3 @@
 # Coding-Interview-Prep
 ## What is this?
-My Diary of Solving Leetcode Problems
+My Diary of Solving Leetcode Problems.
