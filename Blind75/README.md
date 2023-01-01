@@ -3,7 +3,7 @@
 
 All the files should follow [Google C++ Style Guide](https://ttsuki.github.io/styleguide/cppguide.ja.html).
 
-| 番号 | 問題名 | 所要時間 |
+| Number | Title | Required time |
 | ---- | ---- | ---- |
 | 1 | Two Sum | ??? |
 | 2 | Best Time to Buy and Sell Stock | 04:43 |
