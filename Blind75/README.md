@@ -11,7 +11,7 @@ All the files should follow [Google C++ Style Guide](https://ttsuki.github.io/st
 | 4 | Product of Array Except Self | 10:19 |
 | 5 | Maximum Subarray | 09:14 |
 | 6 | Maximum Product Subarray | 29:46 |
-| 7 | Find Minimum in Rotated Sorted Array |  |
+| 7 | Find Minimum in Rotated Sorted Array | 14:38 |
 | 8 | Search in Rotated Sorted Array |  |
 | 9 | 3 Sum |  |
 | 10 | Container With Most Water |  |
