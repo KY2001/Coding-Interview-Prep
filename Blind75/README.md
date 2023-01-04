@@ -13,7 +13,7 @@
 | 6 | Maximum Product Subarray | Medium | 29:46 |
 | 7 | Find Minimum in Rotated Sorted Array | Medium | 14:38 |
 | 8 | Search in Rotated Sorted Array | Medium | 16:28 |
-| 9 | 3 Sum |  |  |
+| 9 | 3 Sum | Medium | 57:09 |
 | 10 | Container With Most Water |  |  |
 | 11 |  |  |  |
 | 12 |  |  |  |
