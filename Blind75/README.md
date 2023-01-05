@@ -3,7 +3,7 @@
 - All the files should follow [Google C++ Style Guide](https://ttsuki.github.io/styleguide/cppguide.ja.html).
 - Use white board service like [Google Jamboard](https://jamboard.google.com/) if you need.
 
-| Number | type | Title | difficulty | Required time |
+| Number | type | Title | difficulty | Solved time |
 | ---- | ---- | ---- | ---- | ---- |
 | 1 | Array | Two Sum | Easy | ??? |
 | 2 | Array | Best Time to Buy and Sell Stock | Easy | 04:43 |
