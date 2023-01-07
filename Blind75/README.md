@@ -17,7 +17,7 @@
 | 10 | Array | Container With Most Water | Medium | 13:41 |
 | 11 | Binary | Sum of Two Integers | Medium | 128:32 (<strong>retry</strong>) |
 | 12 | Binary | Number of 1 Bits | Easy | 02:24 |
-| 13 | Binary | Counting Bits |  |  |
+| 13 | Binary | Counting Bits | Easy | 10:07 |
 | 14 | Binary | Missing Number |  |  |
 | 15 | Binary | Reverse Bits |  |  |
 | 16 |  |  |  |  |
