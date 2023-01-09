@@ -18,8 +18,8 @@
 | 11 | Binary | Sum of Two Integers | Medium | 128:32 (<strong>retry</strong>) |
 | 12 | Binary | Number of 1 Bits | Easy | 02:24 |
 | 13 | Binary | Counting Bits | Easy | 10:07 |
-| 14 | Binary | Missing Number |  |  |
-| 15 | Binary | Reverse Bits |  |  |
+| 14 | Binary | Missing Number | Easy | 03:49 |
+| 15 | Binary | Reverse Bits | Easy | 14:00 (missread -> <strong>retry</strong>) |
 | 16 |  |  |  |  |
 | 17 |  |  |  |  |
 | 18 |  |  |  |  |
