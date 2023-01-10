@@ -20,40 +20,40 @@
 | 13 | Binary | Counting Bits | Easy | 10:07 |
 | 14 | Binary | Missing Number | Easy | 03:49 |
 | 15 | Binary | Reverse Bits | Easy | 14:00 (missread -> <strong>retry</strong>) |
-| 16 |  |  |  |  |
-| 17 |  |  |  |  |
-| 18 |  |  |  |  |
-| 19 |  |  |  |  |
-| 20 |  |  |  |  |
-| 21 |  |  |  |  |
-| 22 |  |  |  |  |
-| 23 |  |  |  |  |
-| 24 |  |  |  |  |
-| 25 |  |  |  |  |
-| 26 |  |  |  |  |
-| 27 |  |  |  |  |
-| 28 |  |  |  |  |
-| 29 |  |  |  |  |
-| 30 |  |  |  |  |
-| 31 |  |  |  |  |
-| 32 |  |  |  |  |
-| 33 |  |  |  |  |
-| 34 |  |  |  |  |
-| 35 |  |  |  |  |
-| 36 |  |  |  |  |
-| 37 |  |  |  |  |
-| 38 |  |  |  |  |
-| 39 |  |  |  |  |
-| 40 |  |  |  |  |
-| 41 |  |  |  |  |
-| 42 |  |  |  |  |
-| 43 |  |  |  |  |
-| 44 |  |  |  |  |
-| 45 |  |  |  |  |
-| 46 |  |  |  |  |
-| 47 |  |  |  |  |
-| 48 |  |  |  |  |
-| 49 |  |  |  |  |
+| 16 | DP | Climbing Stairs |  |  |
+| 17 | DP | Coin Change |  |  |
+| 18 | DP | Longest Increasing Subsequence |  |  |
+| 19 | DP | Longest Common Subsequence |  |  |
+| 20 | DP | Word Break Problem |  |  |
+| 21 | DP | Combination Sum |  |  |
+| 22 | DP | House Robber |  |  |
+| 23 | DP | House Robber II |  |  |
+| 24 | DP | Decode Ways |  |  |
+| 25 | DP | Unique Paths |  |  |
+| 26 | DP | Jump Game |  |  |
+| 27 | Graph | Clone Graph |  |  |
+| 28 | Graph | Course Schedule |  |  |
+| 29 | Graph | Pacific Atlantic Water Flow |  |  |
+| 30 | Graph | Number of Islands |  |  |
+| 31 | Graph | Longest Consecutive Sequence |  |  |
+| 32 | Graph | Alien Dictionary  |  |  |
+| 33 | Graph | Graph Valid Tree  |  |  |
+| 34 | Graph | Number of Connected Components in an Undirected Graph  |  |  |
+| 35 | Interval | Insert Interval |  |  |
+| 36 | Interval | Merge Intervals |  |  |
+| 37 | Interval | Non-overlapping Intervals |  |  |
+| 38 | Interval | Meeting Rooms  |  |  |
+| 39 | Interval | Meeting Rooms II  |  |  |
+| 40 | Linked List | Reverse a Linked List |  |  |
+| 41 | Linked List | Detect Cycle in a Linked List |  |  |
+| 42 | Linked List | Merge Two Sorted Lists |  |  |
+| 43 | Linked List | Merge K Sorted Lists |  |  |
+| 44 | Linked List | Remove Nth Node From End Of List |  |  |
+| 45 | Linked List | Reorder List |  |  |
+| 46 | Matrix | Set Matrix Zeroes |  |  |
+| 47 | Matrix | Spiral Matrix |  |  |
+| 48 | Matrix | Rotate Image |  |  |
+| 49 | Matrix | Word Search |  |  |
 | 50 |  |  |  |  |
 | 51 |  |  |  |  |
 | 52 |  |  |  |  |
