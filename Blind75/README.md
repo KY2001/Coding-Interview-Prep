@@ -21,7 +21,7 @@
 | 14 | Binary | Missing Number | Easy | 03:49 |
 | 15 | Binary | Reverse Bits | Easy | 14:00 (missread -> <strong>retry</strong>) |
 | 16 | DP | Climbing Stairs | Easy | 04:50 |
-| 17 | DP | Coin Change |  |  |
+| 17 | DP | Coin Change | Mediaum | 06:55 |
 | 18 | DP | Longest Increasing Subsequence |  |  |
 | 19 | DP | Longest Common Subsequence |  |  |
 | 20 | DP | Word Break Problem |  |  |
