@@ -24,7 +24,7 @@
 | 17 | DP | Coin Change | Mediaum | 06:55 |
 | 18 | DP | Longest Increasing Subsequence | Medium | failed (<strong>retry</strong>) |
 | 19 | DP | Longest Common Subsequence | Medium | 06:06 |
-| 20 | DP | Word Break Problem |  |  |
+| 20 | DP | Word Break Problem | Medium | 14:14 (retry) |
 | 21 | DP | Combination Sum |  |  |
 | 22 | DP | House Robber |  |  |
 | 23 | DP | House Robber II |  |  |
