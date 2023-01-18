@@ -26,7 +26,7 @@
 | 19 | DP | Longest Common Subsequence | Medium | 06:06 |
 | 20 | DP | Word Break Problem | Medium | 14:14 (retry) |
 | 21 | DP | Combination Sum | Medium | 25:52 (missread -> retry) |
-| 22 | DP | House Robber |  |  |
+| 22 | DP | House Robber | Medium | 09:22 |
 | 23 | DP | House Robber II |  |  |
 | 24 | DP | Decode Ways |  |  |
 | 25 | DP | Unique Paths |  |  |
