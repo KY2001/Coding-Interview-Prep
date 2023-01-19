@@ -28,8 +28,8 @@
 | 21 | DP | Combination Sum | Medium | 25:52 (missread -> retry) |
 | 22 | DP | House Robber | Medium | 09:22 |
 | 23 | DP | House Robber II | Medium | 16:52 |
-| 24 | DP | Decode Ways |  |  |
-| 25 | DP | Unique Paths |  |  |
+| 24 | DP | Decode Ways | Medium | 10:44 |
+| 25 | DP | Unique Paths | Medium | 10:58 |
 | 26 | DP | Jump Game |  |  |
 | 27 | Graph | Clone Graph |  |  |
 | 28 | Graph | Course Schedule |  |  |
