@@ -30,8 +30,8 @@
 | 23 | DP | House Robber II | Medium | 16:52 |
 | 24 | DP | Decode Ways | Medium | 10:44 |
 | 25 | DP | Unique Paths | Medium | 10:58 |
-| 26 | DP | Jump Game |  |  |
-| 27 | Graph | Clone Graph |  |  |
+| 26 | DP | Jump Game | Medium | 10:28 |
+| 27 | Graph | Clone Graph | Medium | 69:05 (<strong>must retry</strong>) |
 | 28 | Graph | Course Schedule |  |  |
 | 29 | Graph | Pacific Atlantic Water Flow |  |  |
 | 30 | Graph | Number of Islands |  |  |
