@@ -1,6 +1,6 @@
 ## What is this?
 - [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) is a list of problems for coding interviews.
-- All the files should follow [Google C++ Style Guide](https://ttsuki.github.io/styleguide/cppguide.ja.html).
+- All the source files written in C++ should follow [Google C++ Style Guide](https://ttsuki.github.io/styleguide/cppguide.ja.html).
 - Use white board service like [Google Jamboard](https://jamboard.google.com/) if you need.
 
 | Number | type | Title | difficulty | Solved time |
@@ -32,7 +32,7 @@
 | 25 | DP | Unique Paths | Medium | 10:58 |
 | 26 | DP | Jump Game | Medium | 10:28 |
 | 27 | Graph | Clone Graph | Medium | 69:05 (<strong>must retry</strong>) |
-| 28 | Graph | Course Schedule |  |  |
+| 28 | Graph | Course Schedule | Medium | 26:35 (<strong>retry</strong>) |
 | 29 | Graph | Pacific Atlantic Water Flow |  |  |
 | 30 | Graph | Number of Islands |  |  |
 | 31 | Graph | Longest Consecutive Sequence |  |  |
