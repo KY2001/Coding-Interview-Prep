@@ -33,7 +33,7 @@
 | 26 | DP | Jump Game | Medium | 10:28 |
 | 27 | Graph | Clone Graph | Medium | 69:05 (<strong>must retry</strong>) |
 | 28 | Graph | Course Schedule | Medium | 26:35 (<strong>retry</strong>) |
-| 29 | Graph | Pacific Atlantic Water Flow |  |  |
+| 29 | Graph | Pacific Atlantic Water Flow | Medium | 78:53 (<strong>must retry</strong>) |
 | 30 | Graph | Number of Islands |  |  |
 | 31 | Graph | Longest Consecutive Sequence |  |  |
 | 32 | Graph | Alien Dictionary  |  |  |
