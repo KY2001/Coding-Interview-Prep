@@ -35,7 +35,7 @@
 | 28 | Graph | Course Schedule | Medium | 26:35 | <strong>retry</strong> |
 | 29 | Graph | Pacific Atlantic Water Flow | Medium | 78:53 | <strong>retry</strong> |
 | 30 | Graph | Number of Islands | Medium | 11:00 | ok |
-| 31 | Graph | Longest Consecutive Sequence |  |  |  |
+| 31 | Graph | Longest Consecutive Sequence | Medium | 24:31 | retry |
 | 32 | Graph | Alien Dictionary  |  |  |  |
 | 33 | Graph | Graph Valid Tree  |  |  |  |
 | 34 | Graph | Number of Connected Components in an Undirected Graph  |  |  |  |
