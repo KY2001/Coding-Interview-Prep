@@ -36,7 +36,7 @@
 | 29 | Graph | Pacific Atlantic Water Flow | Medium | 78:53 | <strong>retry</strong> |
 | 30 | Graph | Number of Islands | Medium | 11:00 | ok |
 | 31 | Graph | Longest Consecutive Sequence | Medium | 24:31 | retry |
-| 32 | Graph | Alien Dictionary  |  |  |  |
+| 32 | Graph | Alien Dictionary  | Hard | failed | retry but too hard |
 | 33 | Graph | Graph Valid Tree  |  |  |  |
 | 34 | Graph | Number of Connected Components in an Undirected Graph  |  |  |  |
 | 35 | Interval | Insert Interval |  |  |  |
