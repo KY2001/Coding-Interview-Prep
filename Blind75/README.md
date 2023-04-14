@@ -1,7 +1,7 @@
 ## What is this?
 - [Blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) is a list of problems for coding interviews.
 - All the source files written in C++ should follow [Google C++ Style Guide](https://ttsuki.github.io/styleguide/cppguide.ja.html).
-- Use white board service like [Google Jamboard](https://jamboard.google.com/) if you need.
+- Use white board service like [Google Jamboard](https://jamboard.google.com/) if necessary.
 
 | Number | type | Title | difficulty | Solved time | Status |
 | ---- | ---- | ---- | ---- | ---- | ---- |
