@@ -54,29 +54,30 @@
 | 47 | Matrix | Spiral Matrix |  |  |  |
 | 48 | Matrix | Rotate Image |  |  |  |
 | 49 | Matrix | Word Search |  |  |  |
-| 50 |  |  |  |  |  |
-| 51 |  |  |  |  |  |
-| 52 |  |  |  |  |  |
-| 53 |  |  |  |  |  |
-| 54 |  |  |  |  |  |
-| 55 |  |  |  |  |  |
-| 56 |  |  |  |  |  |
-| 57 |  |  |  |  |  |
-| 58 |  |  |  |  |  |
-| 59 |  |  |  |  |  |
-| 60 |  |  |  |  |  |
-| 61 |  |  |  |  |  |
-| 62 |  |  |  |  |  |
-| 63 |  |  |  |  |  |
-| 64 |  |  |  |  |  |
-| 65 |  |  |  |  |  |
-| 66 |  |  |  |  |  |
-| 67 |  |  |  |  |  |
-| 68 |  |  |  |  |  |
-| 69 |  |  |  |  |  |
-| 70 |  |  |  |  |  |
-| 71 |  |  |  |  |  |
-| 72 |  |  |  |  |  |
-| 73 |  |  |  |  |  |
-| 74 |  |  |  |  |  |
-| 75 |  |  |  |  |  |
+| 50 | String | Longest Substring Without Repeating Characters |  |  |  |
+| 51 | String | Longest Repeating Character Replacement |  |  |  |
+| 52 | String | Minimum Window Substring |  |  |  |
+| 53 | String | Valid Anagram |  |  |  |
+| 54 | String | Group Anagrams |  |  |  |
+| 55 | String | Valid Parentheses |  |  |  |
+| 56 | String | Valid Palindrome |  |  |  |
+| 57 | String | Longest Palindromic Substring |  |  |  |
+| 58 | String | Palindromic Substrings |  |  |  |
+| 59 | String | Encode and Decode Strings |  |  |  |
+| 60 | Tree | Maximum Depth of Binary Tree |  |  |  |
+| 61 | Tree | Same Tree |  |  |  |
+| 62 | Tree | Invert/Flip Binary Tree |  |  |  |
+| 63 | Tree | Binary Tree Maximum Path Sum |  |  |  |
+| 64 | Tree | Binary Tree Level Order Traversal |  |  |  |
+| 65 | Tree | Serialize and Deserialize Binary Tree |  |  |  |
+| 66 | Tree | Subtree of Another Tree |  |  |  |
+| 67 | Tree | Construct Binary Tree from Preorder and Inorder Traversal |  |  |  |
+| 68 | Tree | Validate Binary Search Tree |  |  |  |
+| 69 | Tree | Kth Smallest Element in a BST |  |  |  |
+| 70 | Tree | Lowest Common Ancestor of BST |  |  |  |
+| 71 | Tree | Implement Trie (Prefix Tree) |  |  |  |
+| 72 | Tree | Add and Search Word |  |  |  |
+| 73 | Tree | Word Search II |  |  |  |
+| 74 | Heap | Merge K Sorted Lists |  |  |  |
+| 75 | Heap | Top K Frequent Elements |  |  |  |
+| 76 | Heap | Find Median from Data Stream |  |  |  |
