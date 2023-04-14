@@ -39,7 +39,7 @@
 | 32 | Graph | Alien Dictionary  | Hard | failed | retry but too hard |
 | 33 | Graph | Graph Valid Tree  | Medium | 13:49 | ok |
 | 34 | Graph | Number of Connected Components in an Undirected Graph  | Medium | 09:19 | ok |
-| 35 | Interval | Insert Interval |  |  |  |
+| 35 | Interval | Insert Interval | Medium | 37:10 | retry too much time |
 | 36 | Interval | Merge Intervals |  |  |  |
 | 37 | Interval | Non-overlapping Intervals |  |  |  |
 | 38 | Interval | Meeting Rooms  |  |  |  |
