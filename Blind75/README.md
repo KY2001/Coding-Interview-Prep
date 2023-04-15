@@ -41,7 +41,7 @@
 | 34 | Graph | Number of Connected Components in an Undirected Graph  | Medium | 09:19 | ok |
 | 35 | Interval | Insert Interval | Medium | 37:10 | <strong>retry</strong> too much time |
 | 36 | Interval | Merge Intervals | Medium | 10:38 | ok |
-| 37 | Interval | Non-overlapping Intervals |  |  |  |
+| 37 | Interval | Non-overlapping Intervals | Medium | 25:16 | retry |
 | 38 | Interval | Meeting Rooms  |  |  |  |
 | 39 | Interval | Meeting Rooms II  |  |  |  |
 | 40 | Linked List | Reverse a Linked List |  |  |  |
