@@ -4,7 +4,7 @@
 - Use white board service like [Google Jamboard](https://jamboard.google.com/) if necessary.
 
 | Number | type | Title | difficulty | Solved time | Status | Comment |
-| ---- | ---- | ---- | ---- | ---- | ---- | :--- |
+| :---: | :---: | ---- | :---: | :---: | :---: | :--- |
 | 1 | Array | Two Sum | Easy | ??? | retry | |
 | 2 | Array | Best Time to Buy and Sell Stock | Easy | 04:43 | ok | |
 | 3 | Array | Contains Duplicate | Easy | 03:33 | ok | |
