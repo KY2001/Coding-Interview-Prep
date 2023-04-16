@@ -43,7 +43,7 @@
 | 36 | Interval | Merge Intervals | Medium | 10:38 | ok | |
 | 37 | Interval | Non-overlapping Intervals | Medium | 25:16 | retry | |
 | 38 | Interval | Meeting Rooms  | Easy | 05:24 | ok | |
-| 39 | Interval | Meeting Rooms II  |  |  |  | |
+| 39 | Interval | Meeting Rooms II  | Medium | 13:00 | ok | |
 | 40 | Linked List | Reverse a Linked List |  |  |  | |
 | 41 | Linked List | Detect Cycle in a Linked List |  |  |  | |
 | 42 | Linked List | Merge Two Sorted Lists |  |  |  | |
