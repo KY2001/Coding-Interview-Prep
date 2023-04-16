@@ -42,7 +42,7 @@
 | 35 | Interval | Insert Interval | Medium | 37:10 | retry | Took too much time for implementation |
 | 36 | Interval | Merge Intervals | Medium | 10:38 | ok | |
 | 37 | Interval | Non-overlapping Intervals | Medium | 25:16 | retry | |
-| 38 | Interval | Meeting Rooms  |  |  |  | |
+| 38 | Interval | Meeting Rooms  | Easy | 05:24 | ok | |
 | 39 | Interval | Meeting Rooms II  |  |  |  | |
 | 40 | Linked List | Reverse a Linked List |  |  |  | |
 | 41 | Linked List | Detect Cycle in a Linked List |  |  |  | |
