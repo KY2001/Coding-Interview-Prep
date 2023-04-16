@@ -7,6 +7,7 @@ using namespace std;
 // time: O(N)
 // space: O(NlogN)
 // 13:00
+// 累積和は「culmulative sum」ではなく「cumulative sum」
 int solve(const vector<vector<int>> &intervals){
     const int N = intervals.size();
     vector<int> all_position(2 * N);
