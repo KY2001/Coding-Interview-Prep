@@ -45,7 +45,7 @@
 | 38 | Interval | Meeting Rooms  | Easy | 05:24 | ok | |
 | 39 | Interval | Meeting Rooms II  | Medium | 13:00 | ok | 累積和 is not「culmulative sum」but「cumulative sum」 |
 | 40 | Linked List | Reverse a Linked List | Easy | 39:29 | retry | Good problem to know the operation of pointer |
-| 41 | Linked List | Detect Cycle in a Linked List |  |  |  | |
+| 41 | Linked List | Detect Cycle in a Linked List | Easy | 28:13 | retry | solve with space O(1) |
 | 42 | Linked List | Merge Two Sorted Lists |  |  |  | |
 | 43 | Linked List | Merge K Sorted Lists |  |  |  | |
 | 44 | Linked List | Remove Nth Node From End Of List |  |  |  | |
