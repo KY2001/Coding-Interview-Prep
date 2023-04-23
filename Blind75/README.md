@@ -48,7 +48,7 @@
 | 41 | Linked List | Detect Cycle in a Linked List | Easy | 28:13 | retry | solve with space O(1) |
 | 42 | Linked List | Merge Two Sorted Lists | Easy | 26:53 | retry | too late and inefficient code |
 | 43 | Linked List | Merge K Sorted Lists | Hard | 35:38 | retry | good problem to know the operation of pointer |
-| 44 | Linked List | Remove Nth Node From End Of List |  |  |  | |
+| 44 | Linked List | Remove Nth Node From End Of List | Medium | 10:54 | ok | |
 | 45 | Linked List | Reorder List |  |  |  | |
 | 46 | Matrix | Set Matrix Zeroes |  |  |  | |
 | 47 | Matrix | Spiral Matrix |  |  |  | |
