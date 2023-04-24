@@ -6,6 +6,7 @@ using namespace std;
 // time: O(|nodes|)
 // space: O(|nodes|)
 // 13:40
+// https://jamboard.google.com/d/1hobMPbUO20YiN-yH9odw4qgHTZE0neEQc-_sv9mDxUs/edit?usp=sharing
 void solve(ListNode* head){
     vector<ListNode*> nodes = {head};
     while(nodes.back()->next){
