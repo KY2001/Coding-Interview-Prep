@@ -52,7 +52,7 @@
 | 45 | Linked List | Reorder List | Medium | 13:40 | retry | solve with space O(1) |
 | 46 | Matrix | Set Matrix Zeroes | Medum | 14:38 | retry | failed |
 | 47 | Matrix | Spiral Matrix | Medium | 25:12 | retry | made too many bugs |
-| 48 | Matrix | Rotate Image |  |  |  | |
+| 48 | Matrix | Rotate Image | Medium | 30:20 | retry | made too many bugs |
 | 49 | Matrix | Word Search |  |  |  | |
 | 50 | String | Longest Substring Without Repeating Characters |  |  |  | |
 | 51 | String | Longest Repeating Character Replacement |  |  |  | |
