@@ -53,7 +53,7 @@
 | 46 | Matrix | Set Matrix Zeroes | Medum | 14:38 | retry | failed |
 | 47 | Matrix | Spiral Matrix | Medium | 25:12 | retry | made too many bugs |
 | 48 | Matrix | Rotate Image | Medium | 30:20 | retry | made too many bugs |
-| 49 | Matrix | Word Search |  |  |  | |
+| 49 | Matrix | Word Search | Medium | 20:19 | retry | can't estimate time complexity |
 | 50 | String | Longest Substring Without Repeating Characters |  |  |  | |
 | 51 | String | Longest Repeating Character Replacement |  |  |  | |
 | 52 | String | Minimum Window Substring |  |  |  | |
