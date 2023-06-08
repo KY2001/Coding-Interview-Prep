@@ -64,7 +64,7 @@
 | 57 | String | Longest Palindromic Substring |  |  |  | |
 | 58 | String | Palindromic Substrings |  |  |  | |
 | 59 | String | Encode and Decode Strings |  |  |  | |
-| 60 | Tree | Maximum Depth of Binary Tree |  |  |  | |
+| 60 | Tree | Maximum Depth of Binary Tree | Easy | 07:18 | ok | |
 | 61 | Tree | Same Tree |  |  |  | |
 | 62 | Tree | Invert/Flip Binary Tree |  |  |  | |
 | 63 | Tree | Binary Tree Maximum Path Sum |  |  |  | |
