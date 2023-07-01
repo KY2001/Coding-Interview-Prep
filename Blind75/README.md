@@ -55,7 +55,7 @@
 | 48 | Matrix | Rotate Image | Medium | 30:20 | retry | made too many bugs |
 | 49 | Matrix | Word Search | Medium | 20:19 | retry | can't estimate time complexity |
 | 50 | String | Longest Substring Without Repeating Characters | Medium | 12:17 | ok | |
-| 51 | String | Longest Repeating Character Replacement |  |  |  | |
+| 51 | String | Longest Repeating Character Replacement | Medium | 20:00 | retry | too slow and variable namings are not good;; |
 | 52 | String | Minimum Window Substring |  |  |  | |
 | 53 | String | Valid Anagram |  |  |  | |
 | 54 | String | Group Anagrams |  |  |  | |
