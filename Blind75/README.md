@@ -57,7 +57,7 @@
 | 50 | String | Longest Substring Without Repeating Characters | Medium | 12:17 | ok | |
 | 51 | String | Longest Repeating Character Replacement | Medium | 20:00 | retry | too slow and variable namings are not good;; |
 | 52 | String | Minimum Window Substring | Hard | 60:55 | retry | come up with efficient solution but implement too many bugs |
-| 53 | String | Valid Anagram |  |  |  | |
+| 53 | String | Valid Anagram | Easy | 07:38 | ok | |
 | 54 | String | Group Anagrams |  |  |  | |
 | 55 | String | Valid Parentheses |  |  |  | |
 | 56 | String | Valid Palindrome |  |  |  | |
