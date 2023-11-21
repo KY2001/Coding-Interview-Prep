@@ -59,7 +59,7 @@
 | 52 | String | Minimum Window Substring | Hard | 60:55 | retry | come up with efficient solution but implement too many bugs |
 | 53 | String | Valid Anagram | Easy | 07:38 | ok | |
 | 54 | String | Group Anagrams |  |  |  | |
-| 55 | String | Valid Parentheses |  |  |  | |
+| 55 | String | Valid Parentheses | Easy | 15:24 | ok | misunderstand the problem statement so it took much time |
 | 56 | String | Valid Palindrome |  |  |  | |
 | 57 | String | Longest Palindromic Substring |  |  |  | |
 | 58 | String | Palindromic Substrings |  |  |  | |
