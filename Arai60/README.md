@@ -32,21 +32,21 @@
 | 27 | Tree, BT, BST |  |  |  |  |  |
 | 28 | Tree, BT, BST |  |  |  |  |  |
 | 29 | Tree, BT, BST |  |  |  |  |  |
-| 30 |  |  |  |  |  |  |
-| 31 |  |  |  |  |  |  |
-| 32 |  |  |  |  |  |  |
-| 33 |  |  |  |  |  |  |
-| 34 |  |  |  |  |  |  |
-| 35 |  |  |  |  |  |  |
-| 36 |  |  |  |  |  |  |
-| 37 |  |  |  |  |  |  |
-| 38 |  |  |  |  |  |  |
-| 39 |  |  |  |  |  |  |
-| 40 |  |  |  |  |  |  |
-| 41 |  |  |  |  |  |  |
-| 42 |  |  |  |  |  |  |
-| 43 |  |  |  |  |  |  |
-| 44 |  |  |  |  |  |  |
+| 30 | Dynamic Programming | Paint Fence |  |  |  |  |
+| 31 | Dynamic Programming | Longest Increasing Subsequence |  |  |  |  |
+| 32 | Dynamic Programming | Maximum Subarray |  |  |  |  |
+| 33 | Dynamic Programming | Unique Paths |  |  |  |  |
+| 34 | Dynamic Programming | Unique Paths II |  |  |  |  |
+| 35 | Dynamic Programming | House Robber |  |  |  |  |
+| 36 | Dynamic Programming | House Robber II |  |  |  |  |
+| 37 | Dynamic Programming | Best Time to Buy and Sell Stock |  |  |  |  |
+| 38 | Dynamic Programming | Best Time to Buy and Sell Stock II |  |  |  |  |
+| 39 | Dynamic Programming | Word Break |  |  |  |  |
+| 40 | Dynamic Programming | Coin Change |  |  |  |  |
+| 41 | Binary Search | Search Insert Position | Easy | 07:13 | ok |  |
+| 42 | Binary Search | Find Minimum in Rotated Sorted Array |  |  |  |  |
+| 43 | Binary Search | Search in Rotated Sorted Array |  |  |  |  |
+| 44 | Binary Search | Capacity To Ship Packages Within D Days |  |  |  |  |
 | 45 |  |  |  |  |  |  |
 | 46 |  |  |  |  |  |  |
 | 47 |  |  |  |  |  |  |
