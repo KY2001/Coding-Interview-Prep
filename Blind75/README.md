@@ -64,7 +64,7 @@
 | 59 | String | Encode and Decode Strings |  |  |  | |
 | 60 | Tree | Maximum Depth of Binary Tree | Easy | 07:18 | ok | |
 | 61 | Tree | Same Tree | Easy | 11:40 | ok | |
-| 62 | Tree | Invert/Flip Binary Tree |  |  |  | |
+| 62 | Tree | Invert/Flip Binary Tree | Easy | 04:56 | ok | |
 | 63 | Tree | Binary Tree Maximum Path Sum |  |  |  | |
 | 64 | Tree | Binary Tree Level Order Traversal |  |  |  | |
 | 65 | Tree | Serialize and Deserialize Binary Tree |  |  |  | |
