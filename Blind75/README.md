@@ -58,7 +58,7 @@
 | 53 | String | Valid Anagram | Easy | 07:38 | ok | |
 | 54 | String | Group Anagrams |  |  |  | |
 | 55 | String | Valid Parentheses | Easy | 15:24 | ok | misunderstand the problem statement so it took much time |
-| 56 | String | Valid Palindrome |  |  |  | |
+| 56 | String | Valid Palindrome | Easy | 16:00 | ok | took too much time |
 | 57 | String | Longest Palindromic Substring |  |  |  | |
 | 58 | String | Palindromic Substrings |  |  |  | |
 | 59 | String | Encode and Decode Strings |  |  |  | |
