@@ -59,7 +59,7 @@
 | 54 | String | Group Anagrams |  |  |  | |
 | 55 | String | Valid Parentheses | Easy | 15:24 | ok | misunderstand the problem statement so it took much time |
 | 56 | String | Valid Palindrome | Easy | 16:00 | ok | took too much time |
-| 57 | String | Longest Palindromic Substring |  |  |  | |
+| 57 | String | Longest Palindromic Substring | Medium | 16:45 | retry | find the solution which requires O(1) space. |
 | 58 | String | Palindromic Substrings |  |  |  | |
 | 59 | String | Encode and Decode Strings |  |  |  | |
 | 60 | Tree | Maximum Depth of Binary Tree | Easy | 07:18 | ok | |
