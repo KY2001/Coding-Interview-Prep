@@ -4,7 +4,7 @@
 | Number | type | Title | difficulty | Solved time | Status | Comment |
 | :---: | :---: | ---- | :---: | :---: | :---: | :--- |
 | 1 | LinkedList | Linked List Cycle |  |  |  |  |
-| 2 | LinkedList | Linked List Cycle II |  |  |  |  |
+| 2 | LinkedList | Linked List Cycle II | Medium | 13:00 | ok | find the solution with space complexity O(1) |
 | 3 | LinkedList | Remove Duplicates from Sorted List |  |  |  |  |
 | 4 | LinkedList | Remove Duplicates from Sorted List II |  |  |  |  |
 | 5 | LinkedList | Add Two Numbers |  |  |  |  |
