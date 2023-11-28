@@ -18,7 +18,7 @@
 | 13 | HashMap | Intersection of Two Arrays |  |  |  |  |
 | 14 | HashMap | Unique Email Addresses |  |  |  |  |
 | 15 | HashMap | First Unique Character in a String |  |  |  |  |
-| 16 | HashMap | Subarray Sum Equals K |  |  |  |  |
+| 16 | HashMap | Subarray Sum Equals K | Medium | 18:30 | retry | too slow |
 | 17 | Graph, BFS, DFS | Number of Islands |  |  |  |  |
 | 18 | Graph, BFS, DFS | Max Area of Island |  |  |  |  |
 | 19 | Graph, BFS, DFS | Number of Connected Components in an Undirected Graph |  |  |  |  |
