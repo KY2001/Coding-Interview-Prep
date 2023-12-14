@@ -56,7 +56,7 @@
 | 51 | String | Longest Repeating Character Replacement | Medium | 20:00 | retry | too slow and variable namings are not good;; |
 | 52 | String | Minimum Window Substring | Hard | 60:55 | retry | come up with efficient solution but implement too many bugs |
 | 53 | String | Valid Anagram | Easy | 07:38 | ok | |
-| 54 | String | Group Anagrams |  |  |  | |
+| 54 | String | Group Anagrams | Medium | 08:40 | ok | |
 | 55 | String | Valid Parentheses | Easy | 15:24 | ok | misunderstand the problem statement so it took much time |
 | 56 | String | Valid Palindrome | Easy | 16:00 | ok | took too much time |
 | 57 | String | Longest Palindromic Substring | Medium | 16:45 | retry | find the solution which requires O(1) space. |
