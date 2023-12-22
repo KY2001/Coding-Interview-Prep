@@ -33,7 +33,7 @@
 | 28 | Tree, BT, BST |  |  |  |  |  |
 | 29 | Tree, BT, BST |  |  |  |  |  |
 | 30 | Dynamic Programming | Paint Fence | Medium | 14:15 | ok |  |
-| 31 | Dynamic Programming | Longest Increasing Subsequence |  |  |  |  |
+| 31 | Dynamic Programming | Longest Increasing Subsequence | Medium | 07:20 | ok |  |
 | 32 | Dynamic Programming | Maximum Subarray |  |  |  |  |
 | 33 | Dynamic Programming | Unique Paths |  |  |  |  |
 | 34 | Dynamic Programming | Unique Paths II |  |  |  |  |
