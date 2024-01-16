@@ -44,7 +44,7 @@
 | 39 | Dynamic Programming | Word Break |  |  |  |  |
 | 40 | Dynamic Programming | Coin Change |  |  |  |  |
 | 41 | Binary Search | Search Insert Position | Easy | 07:13 | ok |  |
-| 42 | Binary Search | Find Minimum in Rotated Sorted Array |  |  |  |  |
+| 42 | Binary Search | Find Minimum in Rotated Sorted Array | Medium | 15:07 | retry | careless miss |
 | 43 | Binary Search | Search in Rotated Sorted Array |  |  |  |  |
 | 44 | Binary Search | Capacity To Ship Packages Within D Days |  |  |  |  |
 | 45 |  |  |  |  |  |  |
