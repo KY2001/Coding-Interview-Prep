@@ -66,7 +66,7 @@
 | 61 | Tree | Same Tree | Easy | 11:40 | ok | |
 | 62 | Tree | Invert/Flip Binary Tree | Easy | 04:56 | ok | |
 | 63 | Tree | Binary Tree Maximum Path Sum | Hard | 28:00 | retry | took too much time. |
-| 64 | Tree | Binary Tree Level Order Traversal |  |  |  | |
+| 64 | Tree | Binary Tree Level Order Traversal | Medium | 11:21 | ok | time loss due to copy pass without & |
 | 65 | Tree | Serialize and Deserialize Binary Tree |  |  |  | |
 | 66 | Tree | Subtree of Another Tree |  |  |  | |
 | 67 | Tree | Construct Binary Tree from Preorder and Inorder Traversal |  |  |  | |
