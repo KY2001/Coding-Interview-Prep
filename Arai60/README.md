@@ -10,7 +10,7 @@
 | 5 | LinkedList | Add Two Numbers |  |  |  |  |
 | 6 | Stack | Valid Parentheses |  |  |  |  |
 | 7 | Stack | Reverse Linked List |  |  |  |  |
-| 8 | Heap, PriorityQueue | Kth Largest Element in a Stream |  |  |  |  |
+| 8 | Heap, PriorityQueue | Kth Largest Element in a Stream | Easy | 19:40 | retry | not smart answer and took too much time |
 | 9 | Heap, PriorityQueue | Top K Frequent Elements |  |  |  |  |
 | 10 | Heap, PriorityQueue | Find K Pairs with Smallest Sums |  |  |  |  |
 | 11 | HashMap | Two Sum |  |  |  |  |
