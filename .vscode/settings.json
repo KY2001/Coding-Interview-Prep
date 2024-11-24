@@ -2,5 +2,6 @@
   "files.associations": {
     "functional": "cpp",
     "chrono": "cpp"
-  }
+  },
+  "github.copilot.editor.enableAutoCompletions": false
 }
