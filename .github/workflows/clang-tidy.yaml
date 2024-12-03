@@ -1,0 +1,11 @@
+name: clang-tidy
+on: push
+jobs:
+  cpplint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install clang-tidy
+        run: sudo apt install clang-tidy
+      - name: Execute clang-tidy
+        run: make clang-tidy

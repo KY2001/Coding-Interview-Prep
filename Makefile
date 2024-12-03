@@ -6,3 +6,7 @@ install-uv:
 .PHONY:
 cpplint:
 	uvx cpplint@latest --recursive .
+
+.PHONY: clang-tidy
+clang-tidy:
+	find . -iname '*.cpp' | xargs clang-tidy
